@@ -49,27 +49,30 @@ ResNet Fine-tuning: Fine-tunes a ResNet classifier to improve FID calculation re
 🛠️ How to Use
 Clone the repository:
 
-bash
+```bash
 Copy
 Edit
 git clone https://github.com/yourusername/gan-experiments.git
 cd gan-experiments
+```
 Install requirements:
-
+```
 bash
 Copy
 Edit
 pip install -r requirements.txt
+```
 Run the notebooks in Jupyter or Google Colab:
 
 Open in Colab
 
 Or locally:
-
+```
 bash
 Copy
 Edit
 jupyter notebook
+```
 📚 Learn More
 GANs (Goodfellow et al., 2014)
 
@@ -94,16 +97,6 @@ GitHub Issues
 LinkedIn
 
 Building better GANs — one experiment at a time. 🧠
-
-yaml
-Copy
-Edit
-
----
-
-Would you like a matching `requirements.txt` or badges (e.g., Colab, license, etc.) for your README?
-
-1/2
 
 
 
